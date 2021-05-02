@@ -1,0 +1,17 @@
+Every module is independant project. It is recommended that to import each module independantly in IDE
+
+Repository Structure
+
+Assignment1
+        Problem1
+            Source
+            Output.txt
+        Problem2
+            Source
+            Output.txt
+        Problem3
+            Source
+            Output.txt
+Assignment2
+    Source
+  Output.txt
